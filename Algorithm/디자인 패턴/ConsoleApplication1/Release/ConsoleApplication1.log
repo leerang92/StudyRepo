@@ -1,0 +1,4 @@
+﻿  main.cpp
+main.obj : error LNK2001: "public: __thiscall CLongAttack::~CLongAttack(void)" (??1CLongAttack@@QAE@XZ) 외부 기호를 확인할 수 없습니다.
+main.obj : error LNK2001: "public: __thiscall CLongAttack::CLongAttack(void)" (??0CLongAttack@@QAE@XZ) 외부 기호를 확인할 수 없습니다.
+c:\users\206\documents\visual studio 2015\Projects\interface_test\Release\ConsoleApplication1.exe : fatal error LNK1120: 2개의 확인할 수 없는 외부 참조입니다.

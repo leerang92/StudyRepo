@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\206\documents\visual studio 2015\projects\observerpatten\observerpatten\weatherdata.h(30): error C3867: 'std::list<CObserver,std::allocator<_Ty>>::front': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+          with
+          [
+              _Ty=CObserver
+          ]
+c:\users\206\documents\visual studio 2015\projects\observerpatten\observerpatten\weatherdata.h(36): error C3867: 'CObserver::update': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
