@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Network_1", "Network_1\Network_1.csproj", "{125F61E9-DA88-4D69-BA35-F415A41381E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Network_2", "Network_2\Network_2.csproj", "{B73AE3D6-84B2-4DB9-8066-307F112F42E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Network_3", "Network_3\Network_3.csproj", "{D889FF4C-2107-4392-BA35-E7C232F0A3BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{125F61E9-DA88-4D69-BA35-F415A41381E9}.Debug|x86.ActiveCfg = Debug|x86
+		{125F61E9-DA88-4D69-BA35-F415A41381E9}.Debug|x86.Build.0 = Debug|x86
+		{125F61E9-DA88-4D69-BA35-F415A41381E9}.Release|x86.ActiveCfg = Release|x86
+		{125F61E9-DA88-4D69-BA35-F415A41381E9}.Release|x86.Build.0 = Release|x86
+		{B73AE3D6-84B2-4DB9-8066-307F112F42E2}.Debug|x86.ActiveCfg = Debug|x86
+		{B73AE3D6-84B2-4DB9-8066-307F112F42E2}.Debug|x86.Build.0 = Debug|x86
+		{B73AE3D6-84B2-4DB9-8066-307F112F42E2}.Release|x86.ActiveCfg = Release|x86
+		{B73AE3D6-84B2-4DB9-8066-307F112F42E2}.Release|x86.Build.0 = Release|x86
+		{D889FF4C-2107-4392-BA35-E7C232F0A3BE}.Debug|x86.ActiveCfg = Debug|x86
+		{D889FF4C-2107-4392-BA35-E7C232F0A3BE}.Debug|x86.Build.0 = Debug|x86
+		{D889FF4C-2107-4392-BA35-E7C232F0A3BE}.Release|x86.ActiveCfg = Release|x86
+		{D889FF4C-2107-4392-BA35-E7C232F0A3BE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

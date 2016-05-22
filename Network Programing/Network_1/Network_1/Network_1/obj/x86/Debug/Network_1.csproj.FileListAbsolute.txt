@@ -1,0 +1,5 @@
+c:\users\ckgame\documents\visual studio 2010\Projects\Network_1\Network_1\bin\Debug\Network_1.exe
+c:\users\ckgame\documents\visual studio 2010\Projects\Network_1\Network_1\bin\Debug\Network_1.pdb
+c:\users\ckgame\documents\visual studio 2010\Projects\Network_1\Network_1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ckgame\documents\visual studio 2010\Projects\Network_1\Network_1\obj\x86\Debug\Network_1.exe
+c:\users\ckgame\documents\visual studio 2010\Projects\Network_1\Network_1\obj\x86\Debug\Network_1.pdb
